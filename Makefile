@@ -5,8 +5,8 @@ node_modules:
 	npm install
 
 .PHONY: serve
-serve: build
-	python -m http.server --directory build 7777
+serve: node_modules
+	npm run serve
 
 .PHONY: clean
 clean:

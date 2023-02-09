@@ -10,6 +10,15 @@
 
 Note: speaker notes FTW!
 
+Quick outline:
+
+- How to get a Job
+- What to do when you get the Job
+
+---
+
+## Maintain a Growth Mindset
+
 ---
 
 ## Maintain a Growth Mindset
@@ -44,6 +53,8 @@ Note: speaker notes FTW!
 ---
 
 ## Standards and Conventions
+
+Learn more in the _Deep Dive_ section of the README.
 
 ---
 

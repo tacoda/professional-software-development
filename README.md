@@ -16,7 +16,7 @@ make
 make serve
 ```
 
-The static site will be available at `http://localhost:7777/`
+The static site will be available at `http://localhost:1948/`
 
 ## Summary
 
