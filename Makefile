@@ -1,6 +1,10 @@
+revealmd := ./node_modules/reveal-md/bin/reveal-md.js
+
 build:
-	./node_modules/reveal-md/bin/reveal-md.js slides.md --theme solarized
+	$(revealmd) slides.md -w --theme league
 
-watch:
-	./node_modules/reveal-md/bin/reveal-md.js -w slides.md --theme solarized
+html:
+	$(revealmd) slides.md --static _site
 
+pdf:
+	$(revealmd) slides.md --print slides.pdf
