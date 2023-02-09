@@ -15,7 +15,7 @@ The presentation will be built using Reveal.js and will be available at `http://
 To build a static html site:
 
     make html
-    python -m http.server 8081
+    cd _site && python -m http.server 8081 # Serve using python
 
 To build a pdf:
 
