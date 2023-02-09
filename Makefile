@@ -1,4 +1,4 @@
-build:
+build: deps
 	npm run build
 
 deps:
