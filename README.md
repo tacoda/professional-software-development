@@ -1,6 +1,6 @@
 # Professional Software Development
 
-> This repository is a presentation about professional software development.
+> A presentation about professional software development
 
 ## Building
 
