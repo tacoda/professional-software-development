@@ -16,7 +16,7 @@ make deps
 make build
 
 # Serve static site using python
-python -m http.server --directory _site 8081
+python -m http.server --directory build 8081
 ```
 
 ## Summary
