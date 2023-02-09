@@ -1,10 +1,8 @@
-revealmd := ./node_modules/reveal-md/bin/reveal-md.js
-
 build:
-	$(revealmd) slides.md -w --theme league
+	npm run build
 
-html:
-	$(revealmd) slides.md --static _site
+deps:
+	npm install
 
-pdf:
-	$(revealmd) slides.md --print slides.pdf
+clean:
+	rm -rf node_modules

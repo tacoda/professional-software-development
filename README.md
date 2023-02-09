@@ -6,20 +6,18 @@
 
 The presentation is written as markdown in [slides.md](slides.md).
 
-To build and serve the presentation:
+To build the presentation as a static html site:
 
-    make build
+```sh
+# Install dependencies
+make deps
 
-The presentation will be built using Reveal.js and will be available at `http://localhost:1948`.
+# Build static site
+make build
 
-To build a static html site:
-
-    make html
-    cd _site && python -m http.server 8081 # Serve using python
-
-To build a pdf:
-
-    make pdf
+# Serve static site using python
+python -m http.server --directory _site 8081
+```
 
 ## Summary
 
