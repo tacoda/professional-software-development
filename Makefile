@@ -1,12 +1,14 @@
-build: deps
+build: node_modules
 	npm run build
 
-deps:
+node_modules:
 	npm install
 
-serve:
-	python -m http.server --directory _build 7777
+.PHONY: serve
+serve: build
+	python -m http.server --directory build 7777
 
+.PHONY: clean
 clean:
 	[[ -e "node_modules" ]] && rm -rf node_modules
-	[[ -e "_build" ]] && rm -rf _build
+	[[ -e "build" ]] && rm -rf build

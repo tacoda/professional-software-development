@@ -10,7 +10,7 @@ To build the presentation as a static html site:
 
 ```sh
 # Build static site
-make build
+make
 
 # Serve static site using python
 make serve
