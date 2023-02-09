@@ -34,7 +34,8 @@ Note: speaker notes FTW!
 
 ## Connect to Humans, Not Servers
 
-- Remember all software problems are people problems
+- All software problems are people problems.
+- Communication skills are much more impactful to the business.
 
 ---
 
