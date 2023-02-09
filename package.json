@@ -1,0 +1,15 @@
+{
+  "name": "mypresentation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "reveal-md": "^5.4.0",
+    "reveal.js": "^4.4.0"
+  }
+}
