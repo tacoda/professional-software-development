@@ -16,8 +16,10 @@ make deps
 make build
 
 # Serve static site using python
-python -m http.server --directory build 8081
+make serve
 ```
+
+The static site will be available at `http://localhost:7777/`
 
 ## Summary
 

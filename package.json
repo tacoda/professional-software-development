@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "reveal-md slides.md --theme league --static build"
+    "build": "reveal-md slides.md --theme league --static _build"
   },
   "author": "Ian Johnson",
   "license": "MIT",
