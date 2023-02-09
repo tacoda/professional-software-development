@@ -2,42 +2,46 @@
 
 > A guide for your early career
 
+_Ian Johnson_
+
+---
+
+## Introduction
+
+- ShipU alumni
+- Web development for 10 years
+
 ---
 
 ## Professional Pathways
 
-> Best quote ever.
+---
 
-Note: speaker notes FTW!
+## How To Get The Job
 
-Quick outline:
-
-- How to get a Job
-- What to do when you get the Job
+- Show technical competency
 
 ---
 
-## Maintain a Growth Mindset
+## What Employers are Looking For
 
 ---
 
-## Maintain a Growth Mindset
+## Build Portfolio Projects
+
+- Learn by doing
+- Maximize your time by using them in your portfolio
+- Grow by learning how to distribute your code
 
 ---
 
-## Focus on Impact
+## What To Do When You Got The Job
 
----
-
-## Experiment
-
----
-
-## Test Everything
-
----
-
-## Write Things Down
+- Maintain a Growth Mindset
+- Focus on Impact
+- Learn from User Interaction
+- Test Everything
+- Document Everything
 
 ---
 
@@ -50,15 +54,8 @@ Quick outline:
 
 ## The Professional Role
 
----
-
-## Standards and Conventions
-
-Learn more in the _Deep Dive_ section of the README.
-
----
-
-## What Employers are Looking For
+- Standards and conventions
+- You are the expert
 
 ---
 
